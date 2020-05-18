@@ -15,7 +15,7 @@ The code was tested with Python 3.7, `tensorflow-gpu` 2.0.0a and Cuda 10.0. Inst
 pip install -r requirements.txt
 ```
 
-### Run the code
+### How to run the code
 ```shell
 > cd casflow
 > python gene_cascade.py
@@ -23,7 +23,7 @@ pip install -r requirements.txt
 > python casflow.py
 ```
 
-### Run code in Google Colab
+### How to run the code via Google Colab
 
 You can also run the code in [Google Golab](https://colab.research.google.com/drive/19zQrAIo-yyfkH8m95UmdepzSryxHHs_a?usp=sharing). 
 
