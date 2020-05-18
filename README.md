@@ -32,7 +32,7 @@ You may change the model settings manually in `config.py` or directly into the c
 
 #### Datasets
 
-See some sample cascades in `./datasets/datasets.txt`.
+See some sample cascades in `./datasets/sample_data.txt`.
 
 The datasets we used in the paper can be obtained here:
 
